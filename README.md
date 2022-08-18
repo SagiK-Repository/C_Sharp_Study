@@ -7,11 +7,10 @@
 <br>
 
 ## 과정
-1.  프로그래밍을 시작합시다
-1.  처음 만드는 C# 프로그램
-2.  데이터 보관하기(01)
-3.  데이터 보관하기(02)
-4.  데이터를 가공하는 연산자
+1.  [프로그래밍을 시작합시다](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter01.md)
+1.  [처음 만드는 C# 프로그램](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter02.md)
+2.  [데이터 보관하기(01)](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter03.md)
+4.  [데이터를 가공하는 연산자](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter04.md)
 5.  코드의 흐름 제어하기
 6.  메소드로 코드 간추리기
 7.  클래스(1)
