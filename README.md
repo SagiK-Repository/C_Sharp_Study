@@ -11,8 +11,8 @@
 1.  [처음 만드는 C# 프로그램](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter02.md)
 2.  [데이터 보관하기(01)](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter03.md)
 4.  [데이터를 가공하는 연산자](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter04.md)
-5.  코드의 흐름 제어하기
-6.  메소드로 코드 간추리기
+5.  [코드의 흐름 제어하기](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter05.md)
+6.  [메소드로 코드 간추리기](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter06.md)
 7.  클래스(1)
 8.  클래스(2)
 9.  인터페이스와 추상 클래스
