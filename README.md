@@ -16,7 +16,7 @@
 [7. 클래스](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter07.md)
 [9. 인터페이스와 추상 클래스](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter08.md)
 [10. 프로퍼티](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter09.md)
-[10. 배열과 컬렉션, 그리고 인덱서]((https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter10.md)
+[10. 배열과 컬렉션, 그리고 인덱서](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter10.md)
 [11. 일반화 프로그래밍](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter11.md)
 [12. 예외 처리하기](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter12.md)
 [13. 대리자와 이벤트](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter13.md)
