@@ -7,26 +7,25 @@
 <br>
 
 ## 과정
-1.  [프로그래밍을 시작합시다](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter01.md)
-1.  [처음 만드는 C# 프로그램](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter02.md)
-2.  [데이터 보관하기(01)](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter03.md)
-4.  [데이터를 가공하는 연산자](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter04.md)
-5.  [코드의 흐름 제어하기](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter05.md)
-6.  [메소드로 코드 간추리기](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter06.md)
-7.  클래스(1)
-8.  클래스(2)
-9.  인터페이스와 추상 클래스
-10. 프로퍼티
-10. 배열과 컬렉션, 그리고 인덱서
-11. 일반화 프로그래밍
-12. 예외 처리하기
-13. 대리자와 이벤트
-14. 람다식
-15. LINQ
-16. 리플레션과 애트리뷰트
-17. dynamic 형식
-18. 파일 다루기
-19. 스레드와 태스크
+[1. 프로그래밍을 시작합시다](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter01.md)
+[1. 처음 만드는 C# 프로그램](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter02.md)
+[2. 데이터 보관하기(01)](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter03.md)
+[4. 데이터를 가공하는 연산자](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter04.md)
+[5. 코드의 흐름 제어하기](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter05.md)
+[6. 메소드로 코드 간추리기](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter06.md)
+[7. 클래스](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter07.md)
+[9. 인터페이스와 추상 클래스](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter08.md)
+[10. 프로퍼티](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter09.md)
+[10. 배열과 컬렉션, 그리고 인덱서]((https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter10.md)
+[11. 일반화 프로그래밍](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter11.md)
+[12. 예외 처리하기](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter12.md)
+[13. 대리자와 이벤트](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter13.md)
+[14. 람다식](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter14.md)
+[15. LINQ](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter15.md)
+[16. 리플레션과 애트리뷰트](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter16.md)
+[17. dynamic 형식](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter17.md)
+[18. 파일 다루기](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter18.md)
+[19. 스레드와 태스크](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter19.md)
 20. WinForm으로 만드는 사용자 인터페이스
 21. 네트워크 프로그래밍
 22. 가비지 컬렉션
