@@ -549,7 +549,8 @@ msg=0x201 (WM_LBUTTONDOWN) hwnd=0x181054 wparam=0x1 lparam=0x5100c2 result=0x0 :
    
    ```
 4. 결과를 확인한다.  
-   <img src="/uploads/1695e64ef162477139046a0ae78cf9e2/image.png" width="30%">
+
+   <img src="https://user-images.githubusercontent.com/66783849/189506598-ad880af0-56a5-4c76-999d-d30e2cc62497.png" width="30%">
 
 <br>
 
@@ -568,7 +569,8 @@ msg=0x201 (WM_LBUTTONDOWN) hwnd=0x181054 wparam=0x1 lparam=0x5100c2 result=0x0 :
    }
    ```
 3. 결과를 확인한다.  
-   <img src="/uploads/ddb3e55a2851c44bacdb8efb580dc8b5/image.png" width="30%">
+
+   <img src="https://user-images.githubusercontent.com/66783849/189506587-9146bf7b-1d51-43ac-89fd-9bf62a3e6100.png" width="30%">
 
 <br>
 
@@ -610,7 +612,9 @@ msg=0x201 (WM_LBUTTONDOWN) hwnd=0x181054 wparam=0x1 lparam=0x5100c2 result=0x0 :
    }
    ```
 3. 결과를 확인한다.  
-   <img src="/uploads/82e9d526be40c74db88030f084098752/image.png" width="30%">
+
+   <img src="https://user-images.githubusercontent.com/66783849/189506574-a15c7587-4a6f-4666-bbc4-274d3513c5d9.png" width="30%">
+
 
 
 <br>
@@ -683,7 +687,8 @@ msg=0x201 (WM_LBUTTONDOWN) hwnd=0x181054 wparam=0x1 lparam=0x5100c2 result=0x0 :
    }
    ```
 6. 결과를 확인한다.  
-   <img src="/uploads/da844cc33b6b230a4609e0fc0bf4e92a/image.png" width="30%">
+
+   <img src="https://user-images.githubusercontent.com/66783849/189506566-d0778b06-5b02-44c9-adac-14785552dc52.png" width="30%">
 
 <br><br>
 
@@ -794,4 +799,7 @@ msg=0x201 (WM_LBUTTONDOWN) hwnd=0x181054 wparam=0x1 lparam=0x5100c2 result=0x0 :
           txtSource.Text = dlg.FileName;
   }
   ```
+  
+### 결과 확인하기  
+  <img src="https://user-images.githubusercontent.com/66783849/189506623-acc4ce42-02e7-4e94-b20f-610f0b710653.png" width="30%">
 
