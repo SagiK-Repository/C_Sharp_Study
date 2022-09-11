@@ -688,7 +688,7 @@ msg=0x201 (WM_LBUTTONDOWN) hwnd=0x181054 wparam=0x1 lparam=0x5100c2 result=0x0 :
    ```
 6. 결과를 확인한다.  
 
-   <img src="https://user-images.githubusercontent.com/66783849/189506566-d0778b06-5b02-44c9-adac-14785552dc52.png" width="30%">
+   <img src="https://user-images.githubusercontent.com/66783849/189506668-f3026450-70ce-4fea-ac58-5b8d874acbda.png" width="30%">
 
 <br><br>
 
