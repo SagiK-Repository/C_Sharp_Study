@@ -26,9 +26,9 @@
 - [17. dynamic 형식](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter17.md)
 - [18. 파일 다루기](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter18.md)
 - [19. 스레드와 태스크](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter19.md)
-- 20. WinForm으로 만드는 사용자 인터페이스
-- 21. 네트워크 프로그래밍
-- 22. 가비지 컬렉션
+- [20. WinForm으로 만드는 사용자 인터페이스](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter20.md)
+- [21. 네트워크 프로그래밍](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter21.md)
+- [22. 가비지 컬렉션](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter22.md)
 
 
 # 00. 이것이 C#이다. 학습 로드맵
