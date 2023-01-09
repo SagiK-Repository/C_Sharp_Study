@@ -27,6 +27,11 @@
 - [21. 네트워크 프로그래밍](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter21.md)
 - [22. 가비지 컬렉션](https://github.com/SagiK-Repository/C-_Study/blob/main/Chapter22.md)
 
+### 검색용
+
+- 전 내용에 대해서 검색할 수 있도록 하나의 md로 구성
+- [검색용 묶음](https://github.com/SagiK-Repository/C_Sharp_Study/blob/main/%EA%B2%80%EC%83%89%EC%9A%A9%20%ED%8C%8C%EC%9D%BC.md)
+
 
 # 00. 이것이 C#이다. 학습 로드맵
 
